@@ -24,6 +24,8 @@ I’m a passionate beginner web designer focused on creating beautiful, function
 - HTML, CSS, JavaScript
 - Adobe Photoshop & Illustrator
 - SEO Optimization
+- Canva
+  
 
 ---
 
