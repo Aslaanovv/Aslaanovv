@@ -104,8 +104,9 @@
 - 🌱 Currently deepening Node.js, PostgreSQL, Payload CMS, auth & payments
 
 <p align="center">
-  <a href="https://github.com/Aslaanovv"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Muhammad+Aslaan" alt="Muhammad Aslaan" /></a>
-  <a href="https://aslaansportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?lines=Product+Design+x+Frontend+Engineering;React+%2B+TypeScript+%2B+Next.js;Always+shipping+real+products&font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=f75c7e&vCenter=true&pause=1000&size=22" alt="What I do" /></a>
+  <a href="https://github.com/Aslaanovv"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=540&height=40&lines=Muhammad+Aslaan" alt="Muhammad Aslaan" /></a>
+  <br>
+  <a href="https://aslaansportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F75C7E&center=true&vCenter=true&width=540&height=45&lines=Product+Design+x+Frontend+Engineering;React+%2B+TypeScript+%2B+Next.js;Always+shipping+real+products" alt="What I do" /></a>
 </p>
 
 <!-- Social icons -->
@@ -127,7 +128,6 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/Aslaanovv?tab=repositories&sort=stargazers"><img src="https://gitranks.com/api/badge/v2/Aslaanovv?ranking=s&context=global&type=position&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" alt="GitRanks badge for Aslaanovv" /></a>
   <a href="https://github.com/Aslaanovv?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Aslaanovv?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Total stars" /></a>
   <a href="https://github.com/Aslaanovv?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Aslaanovv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow me on GitHub" /></a>
   <a href="https://aslaansportfolio.vercel.app/contact"><img src="https://img.shields.io/badge/Available%20for%20work-Let%27s%20talk-f75c7e?style=for-the-badge" alt="Available for work" /></a>
