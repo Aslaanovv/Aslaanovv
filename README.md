@@ -25,16 +25,65 @@
 
 ---
 
+# 💻 My favorite tools and technologies
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" /><br>Vite</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" /><br>CSS3</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /><br>Supabase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL" /><br>GraphQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" height="48" alt="Redux / React Query" /><br>State &amp; Data</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" /><br>Vercel</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /><br>Figma</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" /><br>Notion</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify / Liquid" /><br>Shopify / Liquid</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /><br>Framer Motion</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge" alt="Odoo ERP" /><br>Odoo ERP</td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square" alt="React Query" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
+  <img src="https://img.shields.io/badge/Payload%20CMS-1F222E?style=flat-square" alt="Payload CMS" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/SEO-2282c2?style=flat-square" alt="SEO" />
+</p>
+
+---
+
 # 📊 Github Stats and Activity
 
 <p align="center">
   <a href="https://github.com/Aslaanovv">
-    <picture><img height="150" src="https://beautiful-github-homepage.vercel.app/api?username=Aslaanovv&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Aslaanovv's GitHub stats" /></picture>
+    <picture><img height="150" src="https://beautiful-github-homepage.vercel.app/api?username=Aslaanovv&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Aslaanovv's GitHub stats" /></picture>
   </a>
   <a href="https://github.com/Aslaanovv?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aslaanovv&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Aslaanovv's commit streak" /></a>
 </p>
 
-<!-- Fallback if the stats card above is slow: https://github-readme-stats.vercel.app/api?username=Aslaanovv&hide_title=true&show_icons=true&theme=gotham -->
+<!-- Fallback if the stats card above is slow: https://github-readme-stats.vercel.app/api?username=Aslaanovv&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true -->
 
 <br>
 
@@ -155,55 +204,6 @@
 <p align="center"><b>Also on GitHub:</b> <a href="https://github.com/Aslaanovv/adhere-studio-v3">Adhere Studio</a> (digital experience studio) · <a href="https://github.com/Aslaanovv/adhere-ai">Adhere AI</a> (internal AI operating system) · <a href="https://github.com/Aslaanovv/lacamille-theme">La Camille theme</a> · <a href="https://github.com/Aslaanovv/portfolio">this portfolio's source</a></p>
 
 <p align="center"><a href="https://github.com/Aslaanovv/portfolio"><img src="https://img.shields.io/badge/Portfolio%20source-code-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a></p>
-
----
-
-# 💻 My favorite tools and technologies
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" /><br>Vite</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" /><br>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /><br>Supabase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL" /><br>GraphQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" height="48" alt="Redux / React Query" /><br>State &amp; Data</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" /><br>Vercel</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" /><br>Notion</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /><br>Linux</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify / Liquid" /><br>Shopify / Liquid</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /><br>Framer Motion</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge" alt="Odoo ERP" /><br>Odoo ERP</td>
-  </tr>
-</table>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square" alt="React Query" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
-  <img src="https://img.shields.io/badge/Payload%20CMS-1F222E?style=flat-square" alt="Payload CMS" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/SEO-2282c2?style=flat-square" alt="SEO" />
-</p>
 
 <!-- 🐍 Snake animation: after snk.yml runs once, uncomment the line below.
 <img src="https://raw.githubusercontent.com/Aslaanovv/Aslaanovv/output/github-contribution-grid-snake.svg" alt="Aslaanovv's contribution snake" style="max-width: 100%;" />
