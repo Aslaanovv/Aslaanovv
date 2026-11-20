@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/Aslaanovv"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Muhammad+Aslaan" alt="Muhammad Aslaan" /></a>
-  <a href="https://aslaansportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?lines=Product+Design+x+Frontend+Engineering;React+%2B+TypeScript+%2B+Next.js;Always+shipping+real+products&font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=f75c7e&vCenter=true&pause=1000&size=22" alt="What I do" /></a>
+  <a href="https://aslaansportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?lines=  Product+Design+x+Frontend+Engineering;React+%2B+TypeScript+%2B+Next.js;Always+shipping+real+products&font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=f75c7e&vCenter=true&pause=1000&size=22" alt="What I do" /></a>
 </p>
 
 <!-- Social icons -->
