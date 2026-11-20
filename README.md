@@ -192,18 +192,16 @@
 
 # 🚀 Selected Work
 
-| Case study | What I actually shipped | Live / code |
+| Case study | What I actually shipped | Live / case study |
 | --- | --- | --- |
 | **[Yuchiie](https://aslaansportfolio.vercel.app/projects/yuchiie)** · 2026 | Editorial Shopify OS 2.0 theme in Liquid + CSS + vanilla JS: skippable cinematic intro, collection filters, variant options, AJAX cart drawer & wishlist, editable merchant sections | [Live store](https://yuchiie.myshopify.com/) · [Case study](https://aslaansportfolio.vercel.app/projects/yuchiie) |
 | **[Zero Guilt Protein Bars](https://aslaansportfolio.vercel.app/projects/zero-guilt)** · 2026 | Full US DTC launch, empty store → live checkout: positioning + all copy, 6 flavors + mixed box, custom Liquid buy box (Subscribe & Save, flavor upsell, claims accordions), promo banners | [Live store](https://www.zeroguiltus.com/) · [Case study](https://aslaansportfolio.vercel.app/projects/zero-guilt) |
-| **[Malmoum V1](https://aslaansportfolio.vercel.app/projects/malmoum-v1)** | Home-services marketplace for Egypt: one ecosystem for homeowners, technicians, hardware stores & delivery; map discovery, video diagnosis before booking, design system, MVP in React + Vite | [Malmoum-app](https://github.com/Aslaanovv/Malmoum-app) · [Case study](https://aslaansportfolio.vercel.app/projects/malmoum-v1) |
-| **[Ehtwaa Mental Health](https://aslaansportfolio.vercel.app/projects/ehtwaa)** · 2025 | Bilingual Arabic / English therapy site with RTL + language context, 10+ pages, 7 therapist profiles, EmailJS / WhatsApp / Calendly. React 18, TS, Tailwind, Framer Motion, RHF, Zod, Vite | [Live](https://ehtwaa-mentalhealth.vercel.app/) · [ehtwaa-website](https://github.com/Aslaanovv/ehtwaa-website) |
-| **[La Camille](https://aslaansportfolio.vercel.app/projects/la-camille)** · 2026 | Luxury lingerie store on Shopify Dawn: custom Liquid homepage / collection / product templates, lookbook-style browsing, zoomable gallery, responsive luxury UI | [Live store](https://lacamille.myshopify.com/) · [lacamille001](https://github.com/Aslaanovv/lacamille001) |
+| **[Malmoum V1](https://aslaansportfolio.vercel.app/projects/malmoum-v1)** | Home-services marketplace for Egypt: one ecosystem for homeowners, technicians, hardware stores & delivery; map discovery, video diagnosis before booking, design system, MVP in React + Vite | [Case study](https://aslaansportfolio.vercel.app/projects/malmoum-v1) |
+| **[Ehtwaa Mental Health](https://aslaansportfolio.vercel.app/projects/ehtwaa)** · 2025 | Bilingual Arabic / English therapy site with RTL + language context, 10+ pages, 7 therapist profiles, EmailJS / WhatsApp / Calendly. React 18, TS, Tailwind, Framer Motion, RHF, Zod, Vite | [Live](https://ehtwaa-mentalhealth.vercel.app/) · [Case study](https://aslaansportfolio.vercel.app/projects/ehtwaa) |
+| **[La Camille](https://aslaansportfolio.vercel.app/projects/la-camille)** · 2026 | Luxury lingerie store on Shopify Dawn: custom Liquid homepage / collection / product templates, lookbook-style browsing, zoomable gallery, responsive luxury UI | [Live store](https://lacamille.myshopify.com/) · [Case study](https://aslaansportfolio.vercel.app/projects/la-camille) |
 | **[Rabtek Integrated Solutions](https://aslaansportfolio.vercel.app/projects/rabtek-website)** · 2022–2024 | Corporate site + Odoo ERP / CRM enablement: lead capture → sales pipeline, UX/UI, web build, training docs and implementation support | [Live](https://rabtek.net/) · [Case study](https://aslaansportfolio.vercel.app/projects/rabtek-website) |
 
-<p align="center"><b>Also on GitHub:</b> <a href="https://github.com/Aslaanovv/adhere-studio-v3">Adhere Studio</a> (digital experience studio) · <a href="https://github.com/Aslaanovv/adhere-ai">Adhere AI</a> (internal AI operating system) · <a href="https://github.com/Aslaanovv/lacamille-theme">La Camille theme</a> · <a href="https://github.com/Aslaanovv/portfolio">this portfolio's source</a></p>
-
-<p align="center"><a href="https://github.com/Aslaanovv/portfolio"><img src="https://img.shields.io/badge/Portfolio%20source-code-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a></p>
+<p align="center"><a href="https://aslaansportfolio.vercel.app/projects"><img src="https://img.shields.io/badge/Explore%20all%20projects-aslaansportfolio.vercel.app-1F222E?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore all projects" /></a></p>
 
 <!-- 🐍 Snake animation: after snk.yml runs once, uncomment the line below.
 <img src="https://raw.githubusercontent.com/Aslaanovv/Aslaanovv/output/github-contribution-grid-snake.svg" alt="Aslaanovv's contribution snake" style="max-width: 100%;" />
